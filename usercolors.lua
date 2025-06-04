@@ -1,6 +1,6 @@
 return {
   --indieuns_fan
-  [2412582721] = Color3.fromRGB(0, 0, 0),
+  [2412582721] = Color3.fromRGB(224, 0, 0),
   --sjsni20
   [4751887553] = Color3.fromRGB(0, 0, 0),
   --gta5yyd
