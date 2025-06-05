@@ -10,5 +10,5 @@ return {
   --Artist
   [3678793516] = Color3.fromRGB(65, 35, 186),
     --ren
-  [7404802184] = Color3.fromRGB(0, 0, 0),
+  [7404802184] = Color3.fromRGB(255, 248, 190),
 }
