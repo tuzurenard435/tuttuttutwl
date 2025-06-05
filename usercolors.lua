@@ -9,4 +9,6 @@ return {
   [3634405450] = Color3.fromRGB(141, 0, 255),
   --Artist
   [3678793516] = Color3.fromRGB(65, 35, 186),
+    --ren
+  [7404802184] = Color3.fromRGB(0, 0, 0),
 }
