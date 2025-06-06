@@ -11,4 +11,6 @@ return {
   [3678793516] = Color3.fromRGB(65, 35, 186),
     --ren
   [7404802184] = Color3.fromRGB(63, 85, 147),
+  -- ausw54
+  [4961758935] = Color3.fromRGB(224, 0, 0),
 }
