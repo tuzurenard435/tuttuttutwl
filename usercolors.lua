@@ -14,5 +14,5 @@ return {
   -- ausw54
   [4961758935] = Color3.fromRGB(224, 0, 0),
   --0VuVu
-  [4253743839] = Color3.fromRGB(224, 0, 0),
+  [4253743839] = Color3.fromRGB(255, 73, 156),
 }
