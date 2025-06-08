@@ -17,4 +17,6 @@ return {
   [4253743839] = Color3.fromRGB(255, 73, 156),
   --muki
   [1807166015] = Color3.fromRGB(0, 0, 0),
+  --mukialt
+  [8598968631] = Color3.fromRGB(0, 0, 0),
 }
