@@ -3,10 +3,8 @@ return {
   [2412582721] = Color3.fromRGB(224, 0, 0),
   --sjsni20
   [4751887553] = Color3.fromRGB(224, 0, 0),
-  --gta5yyd
-  [2656352954] = Color3.fromRGB(224, 0, 0),
   --Dino
-  [3634405450] = Color3.fromRGB(11, 0, 196),
+  [3634405450] = Color3.fromRGB(138, 0, 0),
   --Artist
   [3678793516] = Color3.fromRGB(65, 35, 186),
     --ren
