@@ -7,8 +7,6 @@ return {
   [2412582721] = true,
   --sjsni20
   [4751887553] = true,
-  --gta5yyd
-  [2656352954] = true,
   --ren
   [7404802184] = true,
   -- ausw54
