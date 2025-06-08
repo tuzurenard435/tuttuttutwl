@@ -19,5 +19,7 @@ return {
   [3203584778] = true,
   --muki
   [1807166015] = true,
+  --mukiAlt
+  [8598968631] = true,
 }
 
