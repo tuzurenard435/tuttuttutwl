@@ -6,7 +6,7 @@ return {
   --gta5yyd
   [2656352954] = Color3.fromRGB(224, 0, 0),
   --Dino
-  [3634405450] = Color3.fromRGB(141, 0, 255),
+  [3634405450] = Color3.fromRGB(11, 0, 196),
   --Artist
   [3678793516] = Color3.fromRGB(65, 35, 186),
     --ren
