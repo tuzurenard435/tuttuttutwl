@@ -19,5 +19,9 @@ return {
   [1807166015] = true,
   --mukiAlt
   [8598968631] = true,
+  --Canes
+  [8172479471] = true,
+  --CanesAlt
+  [5633378584] = true,
 }
 
