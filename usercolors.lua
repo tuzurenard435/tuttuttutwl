@@ -17,4 +17,6 @@ return {
   [1807166015] = Color3.fromRGB(0, 0, 0),
   --mukialt
   [8598968631] = Color3.fromRGB(0, 0, 0),
+  --hennexdino
+  [8642811210] = Color3.fromRGB(255, 82, 0),
 }
