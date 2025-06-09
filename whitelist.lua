@@ -25,5 +25,7 @@ return {
   [5633378584] = true,
   --Martus
   [209950251] = true,
+  --hennexdino
+  [8642811210] = true,
 }
 
