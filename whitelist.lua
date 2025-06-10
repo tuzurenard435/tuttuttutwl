@@ -27,5 +27,9 @@ return {
   [209950251] = true,
   --hennexdino
   [8642811210] = true,
+  --keey
+  [3150781443] = true,
+  --keey alt
+  [3403189118] = true,
 }
 
