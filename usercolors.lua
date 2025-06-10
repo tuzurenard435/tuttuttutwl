@@ -25,4 +25,6 @@ return {
   [3403189118] = Color3.fromRGB(20, 6, 255),
   --key alt 2
   [3811412998] = Color3.fromRGB(20, 6, 255),
+  --ducks
+  [932106200] = Color3.fromRGB(171, 0, 255),
 }
