@@ -35,5 +35,7 @@ return {
   [3811412998] = true,
   --keey alt 3
   [7800723166] = true,
+  --ducks
+  [932106200] = true,
 }
 
