@@ -31,7 +31,9 @@ return {
   [3150781443] = true,
   --keey alt
   [3403189118] = true,
-  --key alt 2
+  --keey alt 2
   [3811412998] = true,
+  --keey alt 3
+  [7800723166] = true,
 }
 
