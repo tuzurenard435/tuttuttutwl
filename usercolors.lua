@@ -27,4 +27,10 @@ return {
   [3811412998] = Color3.fromRGB(122, 0, 255),
   --ducks
   [932106200] = Color3.fromRGB(171, 0, 255),
+  -- cris
+  [5224317532] = Color3.fromRGB(224, 0, 0),
+  --cris alt
+  [3000992760] = Color3.fromRGB(224, 0, 0),
+  --cris alt 2 
+  [7999009952] = Color3.fromRGB(224, 0, 0),
 }
