@@ -37,5 +37,12 @@ return {
   [7800723166] = true,
   --ducks
   [932106200] = true,
+  -- cris
+  [5224317532] = true,
+  --cris alt
+  [3000992760] = true,
+  --cris alt 2 
+  [7999009952] = true,
+  [
 }
 
