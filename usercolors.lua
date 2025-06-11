@@ -20,11 +20,11 @@ return {
   --hennexdino
   [8642811210] = Color3.fromRGB(255, 82, 0),
     --keey
-  [3150781443] = Color3.fromRGB(20, 6, 255),
+  [3150781443] = Color3.fromRGB(122, 0, 255),
   --keey alt
-  [3403189118] = Color3.fromRGB(20, 6, 255),
+  [3403189118] = Color3.fromRGB(122, 0, 255),
   --key alt 2
-  [3811412998] = Color3.fromRGB(20, 6, 255),
+  [3811412998] = Color3.fromRGB(122, 0, 255),
   --ducks
   [932106200] = Color3.fromRGB(171, 0, 255),
 }
