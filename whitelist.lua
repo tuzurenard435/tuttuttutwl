@@ -43,5 +43,7 @@ return {
   [3000992760] = true,
   --cris alt 2 
   [7999009952] = true,
+  --deiner
+  [1348056161] = true,
 }
 
