@@ -45,5 +45,7 @@ return {
   [7999009952] = true,
   --deiner
   [1348056161] = true,
+  --puppit
+  [1247779879] = true,
 }
 
