@@ -33,4 +33,6 @@ return {
   [3000992760] = Color3.fromRGB(224, 0, 0),
   --cris alt 2 
   [7999009952] = Color3.fromRGB(224, 0, 0),
+    --deiner
+  [1348056161] = Color3.fromRGB(224, 0, 0),
 }
