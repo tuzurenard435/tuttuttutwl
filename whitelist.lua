@@ -49,5 +49,7 @@ return {
   [1247779879] = true,
   --ducks alt
   [1368235094] = true,
+  --bsglucky
+  [2880637817] = true,
 }
 
