@@ -47,5 +47,7 @@ return {
   [1348056161] = true,
   --puppit
   [1247779879] = true,
+  --ducks alt
+  [1368235094] = true,
 }
 
