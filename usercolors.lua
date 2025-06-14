@@ -37,4 +37,6 @@ return {
   [1348056161] = Color3.fromRGB(224, 0, 0),
   --ducks alt
   [1368235094] = Color3.fromRGB(255, 0, 0),
+    --bsglucky
+  [2880637817] = Color3.fromRGB(255, 0, 0),
 }
