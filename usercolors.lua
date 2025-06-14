@@ -35,4 +35,6 @@ return {
   [7999009952] = Color3.fromRGB(224, 0, 0),
     --deiner
   [1348056161] = Color3.fromRGB(224, 0, 0),
+  --ducks alt
+  [1368235094] = Color3.fromRGB(255, 0, 0),
 }
