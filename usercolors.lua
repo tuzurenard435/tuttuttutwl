@@ -39,4 +39,6 @@ return {
   [1368235094] = Color3.fromRGB(255, 0, 0),
     --bsglucky
   [2880637817] = Color3.fromRGB(255, 0, 0),
+  -- gta5yyd
+  [2656352954] = Color3.fromRGB(138, 0, 0),
 }
