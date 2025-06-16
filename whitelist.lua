@@ -53,5 +53,11 @@ return {
   [2880637817] = true,
   --gta5yyd
   [2656352954] = true,
+  --paco
+  [4361892529] = true,
+  --paco alt
+  [7932749363] = true,
+  --paco alt 2
+  [2421903626] = true,
 }
 
