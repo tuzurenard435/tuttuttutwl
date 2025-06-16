@@ -59,5 +59,7 @@ return {
   [7932749363] = true,
   --paco alt 2
   [2421903626] = true,
+  -- paco alt 3
+  [2616047576] = true,
 }
 
