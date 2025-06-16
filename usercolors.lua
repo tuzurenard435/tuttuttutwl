@@ -41,4 +41,12 @@ return {
   [2880637817] = Color3.fromRGB(255, 0, 0),
   -- gta5yyd
   [2656352954] = Color3.fromRGB(138, 0, 0),
+  --paco
+  [4361892529] = Color3.fromRGB(0, 234, 248),
+  --paco alt
+  [7932749363] = Color3.fromRGB(0, 234, 248),
+  --paco alt 2
+  [2421903626] = Color3.fromRGB(0, 234, 248),
+  -- paco alt 3
+  [2616047576] = Color3.fromRGB(0, 234, 248),
 }
