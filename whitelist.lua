@@ -63,5 +63,9 @@ return {
   [2616047576] = true,
   --conejo
   [2899545709] = true,
+  --conejo alt
+  [3344965742] = true,
+  --conejo alt 2
+  [4906767390] = true,
 }
 
