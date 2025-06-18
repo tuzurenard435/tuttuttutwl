@@ -49,4 +49,10 @@ return {
   [2421903626] = Color3.fromRGB(0, 234, 248),
   -- paco alt 3
   [2616047576] = Color3.fromRGB(0, 234, 248),
+    --conejo
+  [2899545709] = Color3.fromRGB(0, 24, 255),
+  --conejo alt
+  [3344965742] = Color3.fromRGB(0, 24, 255),
+  --conejo alt 2
+  [4906767390] = Color3.fromRGB(0, 24, 255),
 }
