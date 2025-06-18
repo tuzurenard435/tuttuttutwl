@@ -69,5 +69,7 @@ return {
   [4906767390] = true,
   --conejo alt 3
   [3043281462] = true,
+  -- kakashi
+  [2273507624] = true,
 }
 
