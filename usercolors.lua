@@ -55,4 +55,6 @@ return {
   [3344965742] = Color3.fromRGB(0, 24, 255),
   --conejo alt 2
   [4906767390] = Color3.fromRGB(0, 24, 255),
+  --conejo alt 3
+  [3043281462] = Color3.fromRGB(0, 24, 255),
 }
