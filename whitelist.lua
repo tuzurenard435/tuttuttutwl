@@ -67,5 +67,7 @@ return {
   [3344965742] = true,
   --conejo alt 2
   [4906767390] = true,
+  --conejo alt 3
+  [3043281462] = true,
 }
 
