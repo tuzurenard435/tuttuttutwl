@@ -73,5 +73,11 @@ return {
   [2273507624] = true,
   --slhcris
   [5178782812] = true,
+  --raul daddy
+  [3849092255] = true,
+  -- raul alt
+  [1613486238] = true,
+  --raul alt 2
+  [6006375260] = true,
 }
 
