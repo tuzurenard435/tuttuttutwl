@@ -71,5 +71,7 @@ return {
   [3043281462] = true,
   -- kakashi
   [2273507624] = true,
+  --slhcris
+  [5178782812] = true,
 }
 
