@@ -18,7 +18,7 @@ return {
   --mukialt
   [8598968631] = Color3.fromRGB(0, 0, 0),
   --hennexdino
-  [8642811210] = Color3.fromRGB(255, 82, 0),
+  [8642811210] = Color3.fromRGB(138, 0, 0),
     --keey
   [3150781443] = Color3.fromRGB(122, 0, 255),
   --keey alt
