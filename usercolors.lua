@@ -63,4 +63,12 @@ return {
   [1613486238] = Color3.fromRGB(0, 0, 0),
   --raul alt 2
   [6006375260] = Color3.fromRGB(0, 0, 0),
+    -- pegacy
+  [808028355] = Color3.fromRGB(138, 0, 0),
+  -- pegacy alt
+  [6196677996] = Color3.fromRGB(138, 0, 0),
+  --pegacy alt 2
+  [7006171730] = Color3.fromRGB(138, 0, 0),
+  --pegacy alt 3
+  [1392523611] = Color3.fromRGB(138, 0, 0),
 }
