@@ -71,4 +71,8 @@ return {
   [7006171730] = Color3.fromRGB(138, 0, 0),
   --pegacy alt 3
   [1392523611] = Color3.fromRGB(138, 0, 0),
+    --saro
+  [3840834017] = Color3.fromRGB(138, 0, 0),
+  -- break 30min
+  [7841161313] = Color3.fromRGB(138, 0, 0),
 }
