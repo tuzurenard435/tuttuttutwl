@@ -81,5 +81,11 @@ return {
   [6006375260] = true,
   -- pegacy
   [808028355] = true,
+  -- pegacy alt
+  [6196677996] = true,
+  --pegacy alt 2
+  [7006171730] = true,
+  --pegacy alt 3
+  [1392523611] = true,
 }
 
