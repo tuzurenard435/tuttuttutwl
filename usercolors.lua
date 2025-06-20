@@ -58,7 +58,7 @@ return {
   --conejo alt 3
   [3043281462] = Color3.fromRGB(0, 24, 255),
   --conejo alt 4
-  [7034007086] = Color3.fromRGB(0, 24, 255)
+  [7034007086] = Color3.fromRGB(0, 24, 255),
   --raul daddy
   [3849092255] = Color3.fromRGB(0, 0, 0),
   -- raul alt
