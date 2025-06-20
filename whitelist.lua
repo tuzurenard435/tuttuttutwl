@@ -89,7 +89,5 @@ return {
   [1392523611] = true,
   --saro
   [3840834017] = true,
-  -- break 30min
-  [7841161313] = true,
 }
 
