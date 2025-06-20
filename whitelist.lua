@@ -79,5 +79,7 @@ return {
   [1613486238] = true,
   --raul alt 2
   [6006375260] = true,
+  -- pegacy
+  [808028355] = true,
 }
 
