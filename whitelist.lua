@@ -91,5 +91,7 @@ return {
   [1392523611] = true,
   --saro
   [3840834017] = true,
+  --kakashi
+  [1794232981] = true,
 }
 
